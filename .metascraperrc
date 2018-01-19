@@ -1,5 +1,5 @@
 {
   "rules": [
-    "./canonical.js"
+    "./node_modules/non-amp-site/canonical.js"
   ]
 }
