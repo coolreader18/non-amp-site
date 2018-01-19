@@ -1,7 +1,7 @@
 {
   "name": "non-amp-site",
   "version": "1.0.0",
-  "description": "Gets the non Accelerated Mobile Pages version of an amp website.",
+  "description": "Gets the non-amp version of an amp site.",
   "main": "index.js",
   "repository": "https://github.com/coolreader18/non-amp-site",
   "author": "coolreader18",
