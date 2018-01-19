@@ -9,10 +9,5 @@
   "dependencies": {
     "got": "^8.0.2",
     "metascraper": "^3.4.3"
-  },
-  "metascraper": {
-    "rules": [
-      "./canonical.js"
-    ]
   }
 }
