@@ -1,6 +1,6 @@
 {
   "name": "non-amp-site",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gets the non-amp version of an amp site.",
   "main": "index.js",
   "repository": "github:coolreader18/non-amp-site",
