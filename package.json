@@ -7,7 +7,6 @@
   "author": "coolreader18",
   "license": "MIT",
   "dependencies": {
-    "got": "^8.0.2",
-    "metascraper": "^3.4.3"
+    "got": "^8.0.2"
   }
 }
