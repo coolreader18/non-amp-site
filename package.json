@@ -1,12 +1,13 @@
 {
   "name": "non-amp-site",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "Gets the non-amp version of an amp site.",
   "main": "index.js",
   "repository": "github:coolreader18/non-amp-site",
   "author": "coolreader18",
   "license": "MIT",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "got": "^8.0.2"
   }
 }
